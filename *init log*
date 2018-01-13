@@ -1,0 +1,135 @@
+------- error log -------
+
+/Users/issei/.emacs.d/myconf/31-ensime.el. Archive ’melpa-stable’ requested for package ’ensime’ is not available.
+/Users/issei/.emacs.d/myconf/33-neotree.el. Symbol’s function definition is void: all-the-icons-octicon
+/Users/issei/.emacs.d/myconf/43-forpy.el. Wrong type argument: keymapp, python-mode-map
+
+------- init log -------
+
+loaded /Users/issei/.emacs.d/myconf/00-lang.el. 0.008016
+loaded /Users/issei/.emacs.d/myconf/01-flame.el. 0.102045
+loaded /Users/issei/.emacs.d/myconf/02-theme.el. 0.032413
+loaded /Users/issei/.emacs.d/myconf/03-env.el. 0.034957
+loaded /Users/issei/.emacs.d/myconf/04-anything.el. 0.760793
+loaded /Users/issei/.emacs.d/myconf/05-majurmode.el. 0.002903
+loaded /Users/issei/.emacs.d/myconf/06-keybind.el. 0.017254
+loaded /Users/issei/.emacs.d/myconf/07-addhook.el. 0.068565
+loaded /Users/issei/.emacs.d/myconf/20-package.el. 0.258284
+loaded /Users/issei/.emacs.d/myconf/26-autocomplete.el. 0.067713
+loaded /Users/issei/.emacs.d/myconf/27-company.el. 0.172825
+loaded /Users/issei/.emacs.d/myconf/29-resectf-ext.el. 0.706417
+loaded /Users/issei/.emacs.d/myconf/30-fly-check-ts.el. 0.339556
+loaded /Users/issei/.emacs.d/myconf/32-markdownmode.el. 0.002911
+loaded /Users/issei/.emacs.d/myconf/34-all-the--icons.el. 0.002104
+loaded /Users/issei/.emacs.d/myconf/35-yasnippet.el. 0.183261
+loaded /Users/issei/.emacs.d/myconf/42-scala.el. 0.432562
+loaded /Users/issei/.emacs.d/myconf/44-showbranch.el. 0.004783
+loaded /Users/issei/.emacs.d/myconf/45-magit.el. 0.001602
+loaded /Users/issei/.emacs.d/myconf/46-ctags.el. 0.001625
+
+------- load path -------
+
+../neotree
+~/.emacs.d/vendor/Highlight-Indentation-for-Emacs
+/Users/issei/.emacs.d/myconf
+~/.emacs.d/site-lisp/color-theme
+~/.emacs.d/site-lisp/
+~/.emacs.d/elpa/
+~/.emacs.d/elisp/
+/Users/issei/.emacs.d/elpa/all-the-icons-20170817.642
+/Users/issei/.emacs.d/elpa/company-jedi-20151216.1921
+/Users/issei/.emacs.d/elpa/company-quickhelp-20170429.1052
+/Users/issei/.emacs.d/elpa/ctags-update-0.1.2
+/Users/issei/.emacs.d/elpa/dired-subtree-20160920.130
+/Users/issei/.emacs.d/elpa/dired-hacks-utils-20160527.1436
+/Users/issei/.emacs.d/elpa/dired-toggle-20140907.1349
+/Users/issei/.emacs.d/elpa/dumb-jump-20171122.1614
+/Users/issei/.emacs.d/elpa/ensime-20170817.2325
+/Users/issei/.emacs.d/elpa/company-20170828.414
+/Users/issei/.emacs.d/elpa/f-20171119.723
+/Users/issei/.emacs.d/elpa/flycheck-julia-20170729.1441
+/Users/issei/.emacs.d/elpa/flycheck-pycheckers-20170810.1143
+/Users/issei/.emacs.d/elpa/flymake-css-20170722.1846
+/Users/issei/.emacs.d/elpa/flymake-easy-20140818.55
+/Users/issei/.emacs.d/elpa/font-lock+-20170222.1755
+/Users/issei/.emacs.d/elpa/hiwin-20150825.127
+/Users/issei/.emacs.d/elpa/init-loader-20160528.615
+/Users/issei/.emacs.d/elpa/jedi-20160425.2156
+/Users/issei/.emacs.d/elpa/jedi-core-20170121.610
+/Users/issei/.emacs.d/elpa/epc-20140609.2234
+/Users/issei/.emacs.d/elpa/ctable-20140304.1659
+/Users/issei/.emacs.d/elpa/concurrent-20161228.1930
+/Users/issei/.emacs.d/elpa/julia-mode-20170916.628
+/Users/issei/.emacs.d/elpa/magit-2.4.1
+/Users/issei/.emacs.d/elpa/git-commit-20171007.346
+/Users/issei/.emacs.d/elpa/magit-popup-20171023.926
+/Users/issei/.emacs.d/elpa/markdown-mode-20170825.613
+/Users/issei/.emacs.d/elpa/memoize-20170720.1802
+/Users/issei/.emacs.d/elpa/multi-term-20160619.233
+/Users/issei/.emacs.d/elpa/neotree-20170522.758
+/Users/issei/.emacs.d/elpa/ng2-mode-20170504.2007
+/Users/issei/.emacs.d/elpa/popup-imenu-20170326.340
+/Users/issei/.emacs.d/elpa/flx-ido-20151030.1112
+/Users/issei/.emacs.d/elpa/flx-20151030.1112
+/Users/issei/.emacs.d/elpa/pos-tip-20150318.813
+/Users/issei/.emacs.d/elpa/powerline-20170708.1442
+/Users/issei/.emacs.d/elpa/python-environment-20150310.153
+/Users/issei/.emacs.d/elpa/deferred-20170531.2135
+/Users/issei/.emacs.d/elpa/rainbow-delimiters-20160430.2358
+/Users/issei/.emacs.d/elpa/recentf-ext-20161210.840
+/Users/issei/.emacs.d/elpa/sbt-mode-20170820.924
+/Users/issei/.emacs.d/elpa/scala-mode-20170802.432
+/Users/issei/.emacs.d/elpa/shackle-20170213.1534
+/Users/issei/.emacs.d/elpa/smooth-scroll-20130321.2114
+/Users/issei/.emacs.d/elpa/tide-20170824.2230
+/Users/issei/.emacs.d/elpa/flycheck-20170823.1732
+/Users/issei/.emacs.d/elpa/pkg-info-20150517.443
+/Users/issei/.emacs.d/elpa/epl-20150517.433
+/Users/issei/.emacs.d/elpa/s-20170428.1026
+/Users/issei/.emacs.d/elpa/dash-20170810.137
+/Users/issei/.emacs.d/elpa/tss-20150913.708
+/Users/issei/.emacs.d/elpa/log4e-20170401.604
+/Users/issei/.emacs.d/elpa/json-mode-20170719.2205
+/Users/issei/.emacs.d/elpa/json-snatcher-20150511.2047
+/Users/issei/.emacs.d/elpa/json-reformat-20160212.53
+/Users/issei/.emacs.d/elpa/auto-complete-20170124.1845
+/Users/issei/.emacs.d/elpa/popup-20160709.729
+/Users/issei/.emacs.d/elpa/typescript-mode-20170823.1000
+/Users/issei/.emacs.d/elpa/undo-tree-20170706.246
+/Users/issei/.emacs.d/elpa/use-package-20170812.2256
+/Users/issei/.emacs.d/elpa/diminish-20170419.1036
+/Users/issei/.emacs.d/elpa/bind-key-20161218.1520
+/Users/issei/.emacs.d/elpa/vcl-mode-20170119.1251
+/Users/issei/.emacs.d/elpa/web-mode-14.0.0
+/Users/issei/.emacs.d/elpa/with-editor-20171006.352
+/Users/issei/.emacs.d/elpa/async-20171015.2239
+/Users/issei/.emacs.d/elpa/yaml-mode-20170727.1531
+/Users/issei/.emacs.d/elpa/yasnippet-20170818.1916
+/Users/issei/.emacs.d/elpa/yaxception-20150105.652
+/usr/local/share/emacs/site-lisp
+/usr/local/share/emacs/site-lisp/autoconf
+/usr/local/share/emacs/site-lisp/clisp
+/usr/local/share/emacs/site-lisp/cmake
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/vc
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/url
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/textmodes
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/progmodes
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/play
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/org
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/nxml
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/net
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/mh-e
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/mail
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/leim
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/language
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/international
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/gnus
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/eshell
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/erc
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/emulation
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/emacs-lisp
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/cedet
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/calendar
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/calc
+/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/obsolete
